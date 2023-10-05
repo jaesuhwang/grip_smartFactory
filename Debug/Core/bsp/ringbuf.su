@@ -1,0 +1,16 @@
+../Core/bsp/ringbuf.c:77:1:update_index_atomic	24	static
+../Core/bsp/ringbuf.c:126:1:ringbuf_full	24	static
+../Core/bsp/ringbuf.c:165:1:ringbuf_empty	24	static
+../Core/bsp/ringbuf.c:199:1:ringbuf_flush	16	static
+../Core/bsp/ringbuf.c:231:1:ringbuf_used	24	static
+../Core/bsp/ringbuf.c:266:1:ringbuf_free	24	static
+../Core/bsp/ringbuf.c:294:1:ringbuf_contig_used	24	static
+../Core/bsp/ringbuf.c:331:1:ringbuf_contig_free	24	static
+../Core/bsp/ringbuf.c:382:1:ringbuf_size	16	static
+../Core/bsp/ringbuf.c:407:1:ringbuf_readone	24	static
+../Core/bsp/ringbuf.c:451:1:ringbuf_read	40	static
+../Core/bsp/ringbuf.c:492:1:ringbuf_advread	24	static
+../Core/bsp/ringbuf.c:534:1:ringbuf_advwrite	24	static
+../Core/bsp/ringbuf.c:615:1:ringbuf_writeone	16	static
+../Core/bsp/ringbuf.c:654:1:ringbuf_write	32	static
+../Core/bsp/ringbuf.c:693:1:ringbuf_init	24	static

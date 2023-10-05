@@ -1,0 +1,8 @@
+../Core/bsp/running_avg.c:6:6:RunningAverage_init	16	static
+../Core/bsp/running_avg.c:13:6:RunningAverage_clear	24	static
+../Core/bsp/running_avg.c:25:6:RunningAverage_addValue	16	static
+../Core/bsp/running_avg.c:48:7:RunningAverage_getAverage	16	static
+../Core/bsp/running_avg.c:55:7:RunningAverage_getElement	16	static
+../Core/bsp/running_avg.c:64:6:RunningAverage_fillValue	32	static
+../Core/bsp/running_avg.c:74:7:RunningAverage_getMinInBuffer	24	static
+../Core/bsp/running_avg.c:89:7:RunningAverage_getMaxInBuffer	24	static

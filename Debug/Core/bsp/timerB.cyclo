@@ -1,0 +1,8 @@
+timerB.c:27:6:timerB_init	2
+timerB.c:67:10:timerB_register_cb	2
+timerB.c:92:10:timerB_time	1
+timerB.c:97:6:timerB_stop	1
+timerB.c:107:10:timerB_set_alarm_from_now	6
+timerB.c:142:10:timerB_set_alarm_from_time	6
+timerB.c:177:10:timerB_unset_alarm	6
+timerB.c:216:6:HAL_TIM_OC_DelayElapsedCallback	10

@@ -1,0 +1,5 @@
+../Core/bsp/ntc_sensor.c:41:6:get_temp	4	static
+../Core/bsp/ntc_sensor.c:57:6:ntc_init	32	static
+../Core/bsp/ntc_sensor.c:143:6:ntc_deinit	8	static
+../Core/bsp/ntc_sensor.c:155:6:ntc_dma_start	8	static
+../Core/bsp/ntc_sensor.c:160:6:ntc_drv	72	static

@@ -1,0 +1,8 @@
+../Core/bsp/timerB.c:27:6:timerB_init	16	static
+../Core/bsp/timerB.c:67:10:timerB_register_cb	16	static
+../Core/bsp/timerB.c:92:10:timerB_time	4	static
+../Core/bsp/timerB.c:97:6:timerB_stop	8	static
+../Core/bsp/timerB.c:107:10:timerB_set_alarm_from_now	24	static
+../Core/bsp/timerB.c:142:10:timerB_set_alarm_from_time	16	static
+../Core/bsp/timerB.c:177:10:timerB_unset_alarm	16	static
+../Core/bsp/timerB.c:216:6:HAL_TIM_OC_DelayElapsedCallback	16	static

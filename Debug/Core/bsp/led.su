@@ -1,0 +1,10 @@
+../Core/bsp/led.c:4:6:dbg_led_init	32	static
+../Core/bsp/led.c:19:6:dbg_led_on	8	static
+../Core/bsp/led.c:24:6:dbg_led_off	8	static
+../Core/bsp/led.c:29:6:dbg_led_toggle	8	static
+../Core/bsp/led.c:34:6:led1_init	32	static
+../Core/bsp/led.c:49:6:led1_on	8	static
+../Core/bsp/led.c:54:6:led1_off	8	static
+../Core/bsp/led.c:59:6:led2_init	32	static
+../Core/bsp/led.c:75:6:led2_on	8	static
+../Core/bsp/led.c:80:6:led2_off	8	static

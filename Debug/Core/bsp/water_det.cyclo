@@ -1,0 +1,4 @@
+water_det.c:10:6:water_det_init	3
+water_det.c:64:6:water_dma_start	1
+water_det.c:70:6:water_det_deinit	1
+water_det.c:75:6:water_det_drv	2

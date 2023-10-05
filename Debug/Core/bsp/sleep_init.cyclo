@@ -1,0 +1,2 @@
+sleep_init.c:14:6:sleep_deinit	2
+sleep_init.c:199:6:wakeup_init	1

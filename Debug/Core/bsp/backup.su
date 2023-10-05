@@ -1,0 +1,4 @@
+../Core/bsp/backup.c:19:6:rtc_write_backup_reg	56	static
+../Core/bsp/backup.c:27:10:rtc_read_backup_reg	56	static
+../Core/bsp/backup.c:36:6:Read_ST_Flash	32	static
+../Core/bsp/backup.c:46:9:Write_ST_Flash	48	static

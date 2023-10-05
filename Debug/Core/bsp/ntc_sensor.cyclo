@@ -1,0 +1,5 @@
+ntc_sensor.c:41:6:get_temp	1
+ntc_sensor.c:57:6:ntc_init	3
+ntc_sensor.c:143:6:ntc_deinit	1
+ntc_sensor.c:155:6:ntc_dma_start	1
+ntc_sensor.c:160:6:ntc_drv	2
