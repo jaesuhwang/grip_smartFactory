@@ -1,0 +1,2 @@
+../Core/bsp/input.c:16:10:SensorInputKey	16	static
+../Core/bsp/input.c:29:9:key_In1	4	static

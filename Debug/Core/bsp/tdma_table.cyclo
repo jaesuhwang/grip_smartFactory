@@ -1,0 +1,4 @@
+tdma_table.c:16:6:tdma_table_clear	2
+tdma_table.c:23:9:tdma_table_add	4
+tdma_table.c:34:9:tdma_table_del	3
+tdma_table.c:45:10:tdma_table_pos	3

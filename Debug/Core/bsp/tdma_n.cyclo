@@ -1,0 +1,14 @@
+tdma_n.c:95:6:beaconGetSleepTimeData	1
+tdma_n.c:102:6:mac_init	1
+tdma_n.c:173:9:mac_is_access_allowed	1
+tdma_n.c:177:6:mac_send	1
+tdma_n.c:181:6:mac_set_access_allowed_cb	1
+tdma_n.c:185:13:set_rx	1
+tdma_n.c:204:10:beacon_received	18
+tdma_n.c:403:10:sync_detected	1
+tdma_n.c:408:17:beacon_rx	1
+tdma_n.c:425:17:beacon_timeout	2
+tdma_n.c:451:17:control_send	1
+tdma_n.c:472:17:control_sent	1
+tdma_n.c:477:17:slot_send	1
+tdma_n.c:502:17:slot_sent	1

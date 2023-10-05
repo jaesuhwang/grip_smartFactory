@@ -1,0 +1,9 @@
+packet.c:67:6:uartRingBuff_init	1
+packet.c:73:5:recvUartPkt	5
+packet.c:102:10:ReadFlash2Buff	5
+packet.c:134:6:CopyBuff2FlashWrite	3
+packet.c:162:5:read_configuration_data	2
+packet.c:292:5:handleSetFunc	26
+packet.c:445:5:handleGetFunc	10
+packet.c:541:5:handleUart2Pkt	11
+packet.c:591:6:uart2_receive_func	3

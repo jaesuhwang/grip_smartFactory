@@ -1,0 +1,4 @@
+backup.c:19:6:rtc_write_backup_reg	1
+backup.c:27:10:rtc_read_backup_reg	1
+backup.c:36:6:Read_ST_Flash	2
+backup.c:46:9:Write_ST_Flash	5

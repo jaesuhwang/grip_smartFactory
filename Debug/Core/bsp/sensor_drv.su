@@ -1,0 +1,3 @@
+../Core/bsp/sensor_drv.c:36:6:sensor_init	8	static
+../Core/bsp/sensor_drv.c:119:6:sensor_deinit	8	static
+../Core/bsp/sensor_drv.c:174:6:sensor_drv	8	static

@@ -1,0 +1,10 @@
+led.c:4:6:dbg_led_init	1
+led.c:19:6:dbg_led_on	1
+led.c:24:6:dbg_led_off	1
+led.c:29:6:dbg_led_toggle	1
+led.c:34:6:led1_init	1
+led.c:49:6:led1_on	1
+led.c:54:6:led1_off	1
+led.c:59:6:led2_init	1
+led.c:75:6:led2_on	1
+led.c:80:6:led2_off	1

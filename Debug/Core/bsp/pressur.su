@@ -1,0 +1,6 @@
+../Core/bsp/pressur.c:81:6:pressur_init	32	static
+../Core/bsp/pressur.c:137:6:pressur_dma_start	8	static
+../Core/bsp/pressur.c:142:6:pressur_deinit	8	static
+../Core/bsp/pressur.c:155:7:map	32	static
+../Core/bsp/pressur.c:160:7:multiMap	32	static
+../Core/bsp/pressur.c:179:6:get_press_val	16	static

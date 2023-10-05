@@ -1,0 +1,2 @@
+bsp_adc.c:68:6:HAL_ADC_MspInit	6
+bsp_adc.c:193:6:HAL_ADC_MspDeInit	2
