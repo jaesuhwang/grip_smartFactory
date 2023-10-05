@@ -1,6 +1,0 @@
-../Core/bsp/ac_voltage.c:43:6:phase_2_volt	32	static
-../Core/bsp/ac_voltage.c:122:6:phase_3_volt	40	static
-../Core/bsp/ac_voltage.c:271:6:HAL_TIM_PeriodElapsedCallback	16	static
-../Core/bsp/ac_voltage.c:286:6:ac_dma_start	8	static
-../Core/bsp/ac_voltage.c:293:7:ac_voltage_deinit	8	static
-../Core/bsp/ac_voltage.c:306:6:AC_Volt_adc_init	32	static

@@ -1,6 +1,0 @@
-make.exe --dry-run --always-make --keep-going --print-directory
-make: Entering directory 'c:/Users/Lahm/Desktop/work/stm32/uhf/uhf_slave'
-make: Leaving directory 'c:/Users/Lahm/Desktop/work/stm32/uhf/uhf_slave'
- 
-make: *** No targets specified and no makefile found.  Stop.
-

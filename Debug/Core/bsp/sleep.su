@@ -1,5 +1,0 @@
-../Core/bsp/sleep.c:26:6:gpioAllAnalogSet	32	static
-../Core/bsp/sleep.c:119:6:SYSCLKConfig_STOP	104	static
-../Core/bsp/sleep.c:154:6:SleepModeEntryFunction	24	static
-../Core/bsp/sleep.c:246:6:SleepWakeUpEntryFunction	8	static
-../Core/bsp/sleep.c:278:6:HAL_RTCEx_WakeUpTimerEventCallback	168	static

@@ -1,3 +1,0 @@
-../Core/bsp/tdma_mgt.c:17:6:tdma_mgt_init	16	static
-../Core/bsp/tdma_mgt.c:25:9:tdma_mgt_attach	24	static
-../Core/bsp/tdma_mgt.c:49:9:tdma_mgt_getaddr	16	static

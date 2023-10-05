@@ -1,3 +1,0 @@
-sensor_drv.c:36:6:sensor_init	10
-sensor_drv.c:119:6:sensor_deinit	9
-sensor_drv.c:174:6:sensor_drv	14

@@ -1,6 +1,0 @@
-clock.c:16:6:clock_init	1
-clock.c:22:15:clock_seconds	1
-clock.c:27:6:clock_set_seconds	1
-clock.c:32:14:clock_time	1
-clock.c:38:1:clock_delay_usec	1
-clock.c:43:6:clock_wait	2

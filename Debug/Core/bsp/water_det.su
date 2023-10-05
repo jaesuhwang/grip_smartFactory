@@ -1,4 +1,0 @@
-../Core/bsp/water_det.c:10:6:water_det_init	32	static
-../Core/bsp/water_det.c:64:6:water_dma_start	8	static
-../Core/bsp/water_det.c:70:6:water_det_deinit	4	static
-../Core/bsp/water_det.c:75:6:water_det_drv	4	static

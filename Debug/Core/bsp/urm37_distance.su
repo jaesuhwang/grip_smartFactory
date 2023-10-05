@@ -1,4 +1,0 @@
-../Core/bsp/urm37_distance.c:14:6:count_reset	4	static
-../Core/bsp/urm37_distance.c:23:6:ultraTimerStop	16	static
-../Core/bsp/urm37_distance.c:39:6:ultraStart	8	static
-../Core/bsp/urm37_distance.c:61:6:ultraExtPin_init	32	static

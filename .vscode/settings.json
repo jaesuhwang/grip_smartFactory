@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "bsp_adc.h": "c",
-        "ac_voltage.h": "c",
-        "sensor_drv.h": "c",
-        "global.h": "c",
-        "ntc_sensor.h": "c"
-    }
-}

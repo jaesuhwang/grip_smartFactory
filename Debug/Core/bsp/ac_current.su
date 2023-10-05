@@ -1,8 +1,0 @@
-../Core/bsp/ac_current.c:145:6:phase_cur_dma_start	8	static
-../Core/bsp/ac_current.c:149:6:phase_cur_init	40	static
-../Core/bsp/ac_current.c:234:6:phase_cur_init_deinit	8	static
-../Core/bsp/ac_current.c:248:7:phase_map	32	static
-../Core/bsp/ac_current.c:252:7:phase_multiMap	32	static
-../Core/bsp/ac_current.c:270:6:get_2phase_cur_val	16	static
-../Core/bsp/ac_current.c:287:6:get_3phase_cur_val	16	static
-../Core/bsp/ac_current.c:316:6:ac_current_deinit	8	static

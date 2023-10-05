@@ -1,4 +1,0 @@
-urm37_distance.c:14:6:count_reset	1
-urm37_distance.c:23:6:ultraTimerStop	1
-urm37_distance.c:39:6:ultraStart	3
-urm37_distance.c:61:6:ultraExtPin_init	1
