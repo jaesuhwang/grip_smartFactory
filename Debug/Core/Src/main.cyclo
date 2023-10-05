@@ -1,6 +1,0 @@
-main.c:84:10:mac_ready	1
-main.c:92:5:_write	1
-main.c:121:5:main	4
-main.c:209:6:read_data	1
-main.c:223:6:SystemClock_Config	4
-main.c:274:6:Error_Handler	1

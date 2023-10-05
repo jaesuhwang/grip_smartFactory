@@ -1,6 +1,0 @@
-../Core/bsp/clock.c:16:6:clock_init	4	static
-../Core/bsp/clock.c:22:15:clock_seconds	4	static
-../Core/bsp/clock.c:27:6:clock_set_seconds	16	static
-../Core/bsp/clock.c:32:14:clock_time	4	static
-../Core/bsp/clock.c:38:1:clock_delay_usec	16	static
-../Core/bsp/clock.c:43:6:clock_wait	24	static

@@ -1,6 +1,0 @@
-../Core/bsp/spi_function.c:51:6:cc112xregConfig	32	static
-../Core/bsp/spi_function.c:87:5:cc112xConfigChek	32	static
-../Core/bsp/spi_function.c:131:6:cc112xpwrConfig	24	static
-../Core/bsp/spi_function.c:239:7:cc112x_init	24	static
-../Core/bsp/spi_function.c:286:13:rssi_dbm	24	static
-../Core/bsp/spi_function.c:300:6:read_rssi	16	static

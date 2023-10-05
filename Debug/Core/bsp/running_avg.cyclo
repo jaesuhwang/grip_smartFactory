@@ -1,8 +1,0 @@
-running_avg.c:6:6:RunningAverage_init	1
-running_avg.c:13:6:RunningAverage_clear	2
-running_avg.c:25:6:RunningAverage_addValue	6
-running_avg.c:48:7:RunningAverage_getAverage	2
-running_avg.c:55:7:RunningAverage_getElement	2
-running_avg.c:64:6:RunningAverage_fillValue	2
-running_avg.c:74:7:RunningAverage_getMinInBuffer	4
-running_avg.c:89:7:RunningAverage_getMaxInBuffer	4

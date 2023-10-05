@@ -1,8 +1,0 @@
-ac_current.c:145:6:phase_cur_dma_start	1
-ac_current.c:149:6:phase_cur_init	6
-ac_current.c:234:6:phase_cur_init_deinit	1
-ac_current.c:248:7:phase_map	1
-ac_current.c:252:7:phase_multiMap	5
-ac_current.c:270:6:get_2phase_cur_val	1
-ac_current.c:287:6:get_3phase_cur_val	1
-ac_current.c:316:6:ac_current_deinit	1

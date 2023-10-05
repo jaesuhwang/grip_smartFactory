@@ -1,5 +1,0 @@
-sleep.c:26:6:gpioAllAnalogSet	1
-sleep.c:119:6:SYSCLKConfig_STOP	3
-sleep.c:154:6:SleepModeEntryFunction	4
-sleep.c:246:6:SleepWakeUpEntryFunction	2
-sleep.c:278:6:HAL_RTCEx_WakeUpTimerEventCallback	2

@@ -1,4 +1,0 @@
-global.c:30:6:power_init	1
-global.c:38:6:read_sen_id	1
-global.c:56:6:ch2hex	4
-global.c:75:6:hex2ch	2
